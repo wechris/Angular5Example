@@ -18,6 +18,7 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ## Created
 
+```typescript
 npm install -g @angular/cli
 ng new Angular5-Example
 cd Angular5-Example
@@ -25,3 +26,4 @@ ng serve
 
 ng generate component login
 ng generate component user
+```
