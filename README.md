@@ -27,3 +27,7 @@ ng serve
 ng generate component login
 ng generate component user
 ```
+
+## Reference from
+
+http://www.devglan.com/angular/building-angular-application
